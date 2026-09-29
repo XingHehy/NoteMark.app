@@ -6,6 +6,29 @@ Write Markdown in Apple Notes, search and export your notes, and chat with AI.
 
 NoteMark is a macOS menu bar app that enhances the native Apple Notes editor. Your notes stay in Apple Notes; NoteMark does not create a separate notes library.
 
+## Screenshots
+
+### Settings
+
+| | |
+| --- | --- |
+| ![Settings screen 1](preview/en/1.1.png) | ![Settings screen 2](preview/en/1.2.png) |
+| ![Settings screen 3](preview/en/1.3.png) | ![Settings screen 4](preview/en/1.4.png) |
+
+### AI chat
+
+| | |
+| --- | --- |
+| ![AI chat screen 1](preview/en/2.1.png) | ![AI chat screen 2](preview/en/2.2.png) |
+
+### Quick AI actions
+
+Select text to use formatting and AI actions, then view the result in a panel beside your note.
+
+![Selection toolbar](preview/en/3.1.png)
+
+![Quick AI result panel](preview/en/3.2.png)
+
 ## Download
 
 Download the latest `NoteMark-v*-macOS.zip` from [Releases](https://github.com/XingHehy/NoteMark.app/releases), unzip it, and move `NoteMark.app` to Applications. Requires macOS 14 or later.
