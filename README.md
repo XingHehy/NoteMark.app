@@ -6,6 +6,29 @@
 
 NoteMark 是 macOS 菜单栏应用，直接增强 Apple 备忘录的原生编辑体验。笔记仍保存在 Apple 备忘录中；NoteMark 不创建另一套笔记库。
 
+## 界面预览
+
+### 设置
+
+| | |
+| --- | --- |
+| ![设置界面 1](preview/zh/1.1.png) | ![设置界面 2](preview/zh/1.2.png) |
+| ![设置界面 3](preview/zh/1.3.png) | ![设置界面 4](preview/zh/1.4.png) |
+
+### AI 聊天
+
+| | |
+| --- | --- |
+| ![AI 聊天界面 1](preview/zh/2.1.png) | ![AI 聊天界面 2](preview/zh/2.2.png) |
+
+### 快捷 AI 操作
+
+选中文字后可直接使用格式与 AI 操作，并在就地面板中查看结果。
+
+![选区浮层](preview/zh/3.1.png)
+
+![快捷 AI 结果面板](preview/zh/3.2.png)
+
 ## 下载
 
 前往 [Releases](https://github.com/XingHehy/NoteMark.app/releases) 下载最新的 `NoteMark-v*-macOS.zip`，解压后将 `NoteMark.app` 移到“应用程序”。支持 macOS 14 或更新版本。
@@ -13,6 +36,8 @@ NoteMark 是 macOS 菜单栏应用，直接增强 Apple 备忘录的原生编辑
 首次使用需要在 **系统设置 → 隐私与安全性 → 辅助功能** 中允许 NoteMark。快速搜索和打开备忘录时，系统还会请求“自动化”权限。
 
 > v0.1.0 使用本地自签名证书，尚未进行 Apple 公证。macOS 可能阻止首次打开。请确认文件来自本仓库，再参考 [Apple 的打开说明](https://support.apple.com/en-gb/102445)。
+
+如果看到“Apple 无法验证 NoteMark.app”提示：先尝试打开一次，然后进入 **系统设置 → 隐私与安全性**，在页面下方点击 **仍要打开**，再次确认 **打开**。此操作只为 NoteMark 添加例外，无需关闭整个系统的安全检查。
 
 ## 主要功能
 
