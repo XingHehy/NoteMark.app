@@ -1,6 +1,6 @@
 # NoteMark
 
-[English](readme-en.md)
+[English](README-en.md)
 
 在 Apple 备忘录中用 Markdown 快速写，随手搜索、导出并与 AI 对话。
 

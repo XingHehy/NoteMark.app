@@ -1,6 +1,6 @@
 # NoteMark
 
-[简体中文](readme.md)
+[简体中文](README.md)
 
 Write Markdown in Apple Notes, search and export your notes, and chat with AI.
 
